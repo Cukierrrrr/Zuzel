@@ -1,12 +1,11 @@
-\# Changelog
+# Changelog
 
 
+# \[0.1.0] - 2025-06-30
 
-\## \[0.1.0] - 2025-06-30
+## Dodane
 
-\### Dodane
+- Inicjalizacja projektu Unity
 
-\- Inicjalizacja projektu Unity
-
-\- Skonfigurowanie repozytorium Git
+- Skonfigurowanie repozytorium Git
 
