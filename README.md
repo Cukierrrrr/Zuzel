@@ -1,2 +1,2 @@
 # Zuzel
- Racing game based on speedway created in Unity
+ Gra żużlowa 2D stworzona w Unity 
